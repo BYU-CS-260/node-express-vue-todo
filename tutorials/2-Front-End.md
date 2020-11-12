@@ -2,7 +2,7 @@
 
 The `front-end` directory contains a working front end written with Vue CLI. However,
 it uses local data and doesn't talk to the back end. We'll be modifying it so that
-it uses the front end to store data.
+it uses the back end to store data.
 
 You'll see in the source code that we have just one view, `Home.vue`, and no
 child components. We also have nothing really special happening in `App.vue`
