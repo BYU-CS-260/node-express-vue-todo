@@ -53,7 +53,7 @@ import axios from 'axios';
 
 ## Creating and reading items
 
-Currently, the front end in `src/Home.vue` initializes items in a local array
+Currently, the front end in `src/views/Home.vue` initializes items in a local array
 called `items`. We need to modify this so that it instead gets the list of items
 from the back end. We also need to use the back end to create items.
 
